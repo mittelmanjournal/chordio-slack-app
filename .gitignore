@@ -1,0 +1,10 @@
+# Ignore environment variables file
+.env
+
+# Ignore virtual environment folder
+myenv/
+
+# Ignore other unnecessary files/folders
+*.pyc
+__pycache__/
+test.py
